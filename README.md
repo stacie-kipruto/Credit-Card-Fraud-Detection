@@ -22,8 +22,8 @@
 
 # Evaluating and building the model
 - Four different classifiers will be used, these are;
-  a) K-Nearest Neighbors
-  b) Decision Tree
-  c) Logistic Regression
-  d) Random forest
+- a) K-Nearest Neighbors
+- b) Decision Tree
+- c) Logistic Regression
+- d) Random forest
 
