@@ -1,2 +1,11 @@
 # Abstract
-Financial fraud is an emerging threat with many consequences in the financial industry, corporate companies and government organizations.
+- Financial fraud is an emerging threat with many consequences in the financial industry, corporate companies and government organizations.
+- There are many criminal activities in the financial sector and credit card fraud is the most prevalent worldwide.
+
+# Problem Statement
+- It is estimated that 10,000 transactions take place via credit cards, every second worldwide.
+- Every year, billions of dollars are lost because of credit card fraud. These cases occur under different circumstances such as;
+    Transactions at points of Sale (POS)
+    Online Transactions
+    Transactions with lost or stolen credit cards
+- Surveys have shown that the increase in the dependence of credit cards to perform financial transactions is accompanied by an increase in cases of fraud.
