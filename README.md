@@ -28,5 +28,7 @@
 - d) Random forest
 
 # Building the Classifier
+- Logistic regression was employed as opposed to linear regression. This is because logistic regression is more advanced.
 ![image](https://user-images.githubusercontent.com/66944986/157389593-c0ef5ae3-83ec-429b-bfd9-eeca91053c31.png)
+![image](https://user-images.githubusercontent.com/66944986/157389786-c9829414-e392-4d82-b195-6e0bf28c2fcb.png)
 
