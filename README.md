@@ -34,3 +34,25 @@
 
 ![image](https://user-images.githubusercontent.com/66944986/157389786-c9829414-e392-4d82-b195-6e0bf28c2fcb.png)
 
+# Conclusion
+- The increase in number of fraud cases in financial institutions has led to this project being a vital research field.
+- A logistic regression-based classifier is proposed for this matter.
+- The data is first cleaned, a classifier is then trained and finally the proposed classifier is trained.
+- The logistic regression-based classifier generates the best results in terms of accuracy, sensitivity and error rate.
+
+# Limitations
+- The performance of the proposed classifier suffers in terms of response time. In addition, it doesn’t apply to data in real time. The project was mainly for learning purposes.
+
+# Libraries and Modules used
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Itertools
+
+# License
+Copyright (c) [2022] Stacey Kipruto
+
+
