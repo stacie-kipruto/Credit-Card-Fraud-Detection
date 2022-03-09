@@ -27,3 +27,6 @@
 - c) Logistic Regression
 - d) Random forest
 
+# Building the Classifier
+![image](https://user-images.githubusercontent.com/66944986/157389593-c0ef5ae3-83ec-429b-bfd9-eeca91053c31.png)
+
