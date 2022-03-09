@@ -19,9 +19,11 @@
 # Methodology
 - The system uses Logistic Regression and KNN Clustering to answer the research questions.
 - To ensure high accuracy detection, the mean-based method was used to deal with missing values.
-Four different classifiers will be used, these are;
-K-Nearest Neighbors
-Decision Tree
-Logistic Regression
-Random forest
-![image](https://user-images.githubusercontent.com/66944986/157389076-0eb59e3f-ad8c-4239-86da-0d429d3175fc.png)
+
+#Evaluating and building the model
+-Four different classifiers will be used, these are;
+- a) K-Nearest Neighbors
+- b) Decision Tree
+- c) Logistic Regression
+- d) Random forest
+
