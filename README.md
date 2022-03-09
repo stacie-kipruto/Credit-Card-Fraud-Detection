@@ -9,3 +9,9 @@
     Online Transactions
     Transactions with lost or stolen credit cards
 - Surveys have shown that the increase in the dependence of credit cards to perform financial transactions is accompanied by an increase in cases of fraud.
+
+# Research Questions
+- This project seeks to answer the following questions;
+- 1. How can a fraud detection system be built using AI that can deal with imbalanced data effectively?
+- 2. How can we clean the data before using it for training the machine to ensure high detection accuracy?
+- 3. How can the system detect fraud by adopting to the behaviour of the user?
