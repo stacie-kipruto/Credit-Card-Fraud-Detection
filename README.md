@@ -53,6 +53,6 @@
 - Itertools
 
 # License
-Copyright (c) [2022] Stacey Kipruto
+Copyright (c) [2021] Stacey Kipruto
 
 
