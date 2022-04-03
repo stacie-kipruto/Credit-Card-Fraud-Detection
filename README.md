@@ -51,8 +51,3 @@
 - Plotly
 - Scikit-learn
 - Itertools
-
-# License
-Copyright (c) [2021] Stacey Kipruto
-
-
